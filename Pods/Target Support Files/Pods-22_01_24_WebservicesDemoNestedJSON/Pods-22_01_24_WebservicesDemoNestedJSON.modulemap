@@ -1,0 +1,6 @@
+framework module Pods_22_01_24_WebservicesDemoNestedJSON {
+  umbrella header "Pods-22_01_24_WebservicesDemoNestedJSON-umbrella.h"
+
+  export *
+  module * { export * }
+}
